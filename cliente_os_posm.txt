@@ -1,0 +1,10 @@
+ID_CLIENTE,ID_OS,ID_POSM,FL_APERTAR,FL_RECOLHER,FL_ORGANIZAR,DT_POSM,CD_USUARIO_ENT,CD_USUARIO_REC,DS_ENTREGA,DS_RECEBE,FL_VALIDA_ENT,FL_VALIDA_REC
+1,208,1,S,S,S,,SIGRIDM,CAIOD,Entrega Validada por 'SIGRIDM' em 22/02/2018 09:39:48,Recebimento Validada por 'CAIOD' em 22/02/2018 09:40:04,S,S
+1,207,1,S,S,S,,GERDSON,marciop,Entrega Validada por 'GERDSON' em 21/02/2018 10:34:05,Recebimento Validada por 'marciop' em 22/02/2018 15:46:50,S,S
+1,3,1,S,S,S,2017-12-28T10:32:00,SIGRIDM,GERDSON,Entrega Validada por 'SIGRIDM' em 20/02/2018 15:27:55,Recebimento Validada por 'GERDSON' em 20/02/2018 15:29:40,S,S
+1,212,1,S,S,S,,SIGRIDM,marciop,Entrega Validada por 'SIGRIDM' em 22/02/2018 15:51:06,Recebimento Validada por 'marciop' em 22/02/2018 15:51:20,S,S
+1,211,1,S,S,S,,SIGRIDM,marciop,Entrega Validada por 'SIGRIDM' em 22/02/2018 15:43:53,Recebimento Validada por 'marciop' em 22/02/2018 15:44:08,S,S
+1,206,1,S,S,S,2018-02-21T09:00:00,SIGRIDM,GERDSON,Entrega Validada por 'SIGRIDM' em 21/02/2018 09:01:34,Recebimento Validada por 'GERDSON' em 21/02/2018 09:01:47,S,S
+1,209,1,S,S,S,,SIGRIDM,marciop,Entrega Validada por 'SIGRIDM' em 22/02/2018 15:33:42,Recebimento Validada por 'marciop' em 22/02/2018 15:33:57,S,S
+1,210,1,S,S,S,,SIGRIDM,marciop,Entrega Validada por 'SIGRIDM' em 22/02/2018 15:39:09,Recebimento Validada por 'marciop' em 22/02/2018 15:39:21,S,S
+1,212,2,S,S,S,2018-02-22T15:53:00,sigridm,,,,N,N

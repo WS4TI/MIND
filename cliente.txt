@@ -1,0 +1,3 @@
+DS_TITULO,DS_RODAPE,ID_CLIENTE,DS_RAZAO_SOCIAL,NR_CNPJ,DS_NOME_RESP,NR_RG,NR_CPF,DS_ENDERECO,NR_NUMERO,DS_COMPLEMENTO,DS_BAIRRO,NR_CEP,ID_CIDADE,CD_UF,DS_TELEFONE1,DS_EMAIL1,DS_EMAIL2,DT_CADASTRO,ST_CLIENTE
+Microservice | Manutenção Geral,Microservice Tecnologia Digital da Amazônia LTDA - Copyright © 2017 | Todos os direitos reservados.,1,Microservice Tecnologia Digital da Amazônia Ltda,110006,José Luís Alves da Costa Filho,59844130,2304892906,Av. Cupiuba,350,,Distrito Industrial,69075000,240,AM,(92) 3182-9280,jose.costa@microservice.com.br,,2017-01-23T10:30:00,A
+MIND | SONY DADC,SONY DADC - Copyright © 2017 | Todos os direitos reservados.,21,Sony DADC,16,José Luís Alves da Costa Filho,59844130,2304892906,,,,,,240,AM,,,,2017-01-24T11:24:00,A

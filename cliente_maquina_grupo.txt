@@ -1,0 +1,40 @@
+PK_ANTIGA_TABELA,ID_CLIENTE,ID_MAQUINA_GRUPO,DS_MAQUINA_GRUPO,FL_HORIMETRO,FL_HORAS_CAL,FL_MAQ_PARADAS,DS_EMAIL_RESP,ST_MAQUINA_GRUPO
+,1,28,GRUPO 01 CC. 3001 - DIRETORIA,N,N,N,manutindgeral@microservice.com.br,A
+,1,29,GRUPO 01 CC. 3003 - COMPRAS,N,N,N,manutindgeral@microservice.com.br,A
+,1,30,GRUPO 01 CC. 3008 - FISCAL,N,N,N,manutindgeral@microservice.com.br,A
+,1,31,GRUPO 01 CC. 3405 - ADMINISTRAÇÃO EXTRUSÃO,N,N,N,manutindgeral@microservice.com.br,A
+,1,32,GRUPO 01 CC. 3453 - TDR,N,N,N,manutindgeral@microservice.com.br,A
+,1,33,GRUPO 01 CC. 3005 - RECURSOS HUMANOS,N,N,N,manutindgeral@microservice.com.br,A
+,1,34,GRUPO 01 CC. 3009 - CONSERVAÇÃO E LIMPEZA,N,N,N,manutindgeral@microservice.com.br,A
+,1,35,GRUPO 01 CC. 3011 - ENFERMARIA,N,N,N,manutindgeral@microservice.com.br,A
+,1,36,GRUPO 01 CC. 3012 - RESTAURANTE,N,N,N,manutindgeral@microservice.com.br,A
+,1,37,GRUPO 01 CC. 3601 - TI,N,N,N,manutindgeral@microservice.com.br,A
+,1,38,GRUPO 01 CC. 3101 - ADMINISTRAÇÃO INDUSTRIAL,N,N,N,manutindgeral@microservice.com.br,A
+,1,39,GRUPO 01 CC. 3102 - MATERIAIS,N,N,N,manutindgeral@microservice.com.br,A
+,1,40,GRUPO 01 CC. 3451 - MANUTENÇÃO INDUSTRIAL,N,N,N,manutindgeral@microservice.com.br,A
+,1,41,GRUPO 01 CC. 3655 - GERÊNCIA GERAL,N,N,N,manutindgeral@microservice.com.br,A
+,1,42,GRUPO 01 CC. 3201 - QUALIDADE,N,N,N,manutindgeral@microservice.com.br,A
+,1,43,GRUPO 01 CC. 0000 - DISPONÍVEL,N,N,N,manutindgeral@microservice.com.br,A
+,1,44,GRUPO 01  CC.3007 - SEGURANÇA PATRIMONIAL,N,N,N,manutindgeral@microservice.com.br,A
+12M3102,1,1,GRUPO 01 - EMPILHADEIRAS,N,N,N,manutindgeral@microservice.com.br,I
+2M3601,1,2,GRUPO 3601 - ATIVOS FISCAIS,N,N,N,manutindgeral@microservice.com.br,I
+2M3655,1,3,GRUPO 3655 - ATIVOS FISCAIS,N,N,N,manutindgeral@microservice.com.br,I
+12M3112,1,4,GRUPO 01 - EMPILHADEIRAS,S,N,N,manutindgeral@microservice.com.br,I
+16M3503,1,6,GRUPO 06 - DOP - LINHAS BD,N,N,N,manutindgeral@microservice.com.br,I
+2MB0173N,1,7,GRUPO B0173N - ATIVOS FISCAIS,N,N,N,manutindgeral@microservice.com.br,I
+04M3503,1,11,GRUPO 04 - DOP - SERIGRAFIA,S,N,N,manutindgeral@microservice.com.br,I
+05M3502,1,12,GRUPO 05 - DOP - ELETROFORMAÇÃO / MASTERIZAÇÃO,S,N,N,manutindgeral@microservice.com.br,I
+01M3402,1,13,GRUPO 01 CC.3402 - EXTRUSÃO - WELEX,S,N,N,manutindgeral@microservice.com.br,A
+02M3402,1,14,GRUPO 02 CC.3402 - EXTRUSÃO - DAVIS STANDART,S,N,N,manutindgeral@microservice.com.br,A
+03M3402,1,15,GRUPO 03  CC.3402- EXTRUSÃO - GERAL,S,N,N,manutindgeral@microservice.com.br,A
+01M3401,1,16,GRUPO 01 CC.3401 - INJEÇÃO PLÁSTICA ,S,N,N,manutindgeral@microservice.com.br,A
+01M3103,1,18,GRUPO 01 - MONTAGEM - MONTADORAS,S,N,N,manutindgeral@microservice.com.br,I
+02M3103,1,19,GRUPO 02 - MONTAGEM - CELOFANADORAS,S,N,N,manutindgeral@microservice.com.br,I
+01M3301,1,20,GRUPO 01 CC. 3301 - FILMES,S,N,N,manutindgeral@microservice.com.br,A
+10M3102,1,21,GRUPO 01  CC.3102 - EMPILHADEIRAS,S,N,N,manutindgeral@microservice.com.br,A
+06M3503,1,22,GRUPO 01 - UTILIDADES - DOP,S,N,N,manutindgeral@microservice.com.br,I
+07M3402,1,23,GRUPO 02 CC.3402 - UTILIDADES - EXTRUSÃO,S,N,N,manutindgeral@microservice.com.br,I
+08M3401,1,24,GRUPO 04 - UTILIDADES - INJEÇÃO PLASTICA,S,N,N,manutindgeral@microservice.com.br,I
+2M3602,1,25,GRUPO 01 - ATIVOS FISCAIS,N,N,N,manutindgeral@microservice.com.br,I
+15M3451,1,26,GRUPO 03 CC.3451 - UTILIDADES - MANUTENÇÃO INDUSTRIAL,S,N,N,manutindgeral@microservice.com.br,A
+8M3402,1,27,GRUPO 3402 - ATIVOS FISCAIS,N,N,N,manutindgeral@microservice.com.br,I

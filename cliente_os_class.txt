@@ -1,0 +1,11 @@
+ID_CLIENTE,ID_CLASS,DS_CLASS,ST_CLASS
+1,1,Elétrica,A
+1,2,Hidraulica,A
+1,3,Mecânica,A
+1,4,Eletrônica,A
+1,5,Pneumática,A
+1,6,Processo,A
+1,7,Setup,A
+1,1001,Refrigeração,A
+1,1000,Predial,A
+1,999,Indeterminado,A

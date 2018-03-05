@@ -1,0 +1,147 @@
+FL_AVALIACAO,DS_AVALIACAO,DS_EMAIL_OPC,ID_GRUPO,ID_CLIENTE,ID_OS,DT_OS,CD_MAQUINA,FL_PARADO,CD_TIPO,DS_PROBLEMA,ST_OS,FL_BAIXA_PRODUTO,CD_USUARIO_TMP,ID_CLASS,FL_PRIORIDADE
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,8,2016-08-06T10:46:00,OUTROS MATERIA,N,COR,goteiras ,FEC,N,sigrid,1000,N
+P,,materiais-mao@microservice.com.br,1,1,214,2018-02-23T16:27:00,OUTROS PREDIAL,N,IND,Vedação da abertura inferior do portão de acesso para rua (próximo ao Bené),PEN,,patricia,,U
+P,,admmanutindmao@microservice.com.br,1,1,218,2018-02-24T09:40:00,EMP 03 - TOYOTA,N,IND,"Verificar freio de estacionamento e rodas.
+
+Obs.: Substituindo a OS 63227",PEN,,wilde,,U
+P,,admmanutindmao@microservice.com.br,1,1,225,2018-02-24T10:06:00,EMP 05 - LINDE,N,IND,"Realizar troca da coifa da manete.
+Obs.: Substituindo OS 63562",PEN,,wilde,,N
+P,,admmanutindmao@microservice.com.br,1,1,226,2018-02-24T10:11:00,EMP. SKAN 01,S,IND,"Completar óleo hidráulico.
+Obs.: Substituição OS 63465",PEN,,wilde,,U
+P,,admmanutindmao@microservice.com.br,1,1,229,2018-02-24T10:39:00,EMP 06 - LINDE,N,IND,"Conector da bateria quebrado.
+Obs.: Substituição OS 62143",PEN,,wilde,,U
+P,,admmanutindmao@microservice.com.br,1,1,232,2018-02-24T11:04:00,EMP. SKAN 02,N,IND,"Instalar faróis.
+Obs.: Substituição OS 63306",PEN,,wilde,,U
+P,,admmanutindmao@microservice.com.br,1,1,233,2018-02-24T11:06:00,EMP. SKAN 02,N,IND,"Completar óleo hidráulico.
+Obs.: Substituição OS 63466",PEN,,wilde,,U
+P,,admmateriais-mao@microservice.com.br,1,1,237,2018-02-26T07:23:00,OUTROS PREDIAL,N,IND,"Substituição de 02 luminárias - lâmpadas queimadas
+Mezanino Spare Parts",PEN,,patricia,,U
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@hotmail.com,7,1,76,2017-12-29T08:37:00,OUTROS MATERIA,N,PRD,registro de agaua ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com,7,1,83,2017-12-29T08:40:00,OUTROS MATERIA,N,COR,pintura da proteçao do poço ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,94,2017-12-29T08:42:00,OUTROS MATERIA,N,COR,telhado da area de abastecimento injeção plastica - reparo de vavzamento no telhado,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,99,2017-12-29T08:44:00,OUTROS MATERIA,N,COR,colocação de tampa de erosca no medidor de nivel e instalação de torneira para coleta de,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,12,1,104,2018-01-02T08:39:00,OUTROS EXT,N,COR,matrim ativo fixo N 6525 Garfo lado direito não funciona.,PEN,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,7,1,198,2018-01-18T13:32:00,OUTROS RH,N,COR,torneira do bebedouro quebrada,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,12,1,135,2018-01-02T09:32:00,OUTROS EXT,N,COR,verificar vazamento e realizar limpeza da maquina,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,12,1,150,2018-01-02T09:48:00,OUTROS EXT,N,COR,"adequaçao da porta do refeitorio para abertura em duas folhas no sentido para fora , ou seja , sentido de saida do fluxo de pessoas.",FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,12,1,166,2018-01-02T09:53:00,OUTROS EXT,N,PRD,"retirar infiltração de aguá , vindo da areá de lavagem para area externa.",FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,12,1,179,2018-01-23T13:23:00,OUTROS EXT,N,COR,verificar o nobreak de af. 9002 que não está segurando carga.,FEC,N,sigrid,1,N
+P,,gerdson.soares@microservice.com.br ; sigri.maquine@microservice.com.br ; paulo.lima@microservice.com.br,7,1,5,2016-08-06T10:46:00,OUTROS MATERIA,N,COR,"reparo no piso do setor de materias - buracos Docas 01 , Rua 05 e Rua 03 ",FEC,N,sigrid,1000,N
+P,,admmanutindmao@microservice.com.br,1,1,217,2018-02-24T09:35:00,EMP 03 - TOYOTA,N,IND,"Verificar vazamentos na tampa do motor, mangueiras e cárter.",PEN,,wilde,,U
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,53,2017-12-29T08:00:00,OUTROS MATERIA,N,COR,fechadura danificada ,CAN,N,sigrid,1000,N
+P,,admmanutindmao@microservice.com.br,1,1,221,2018-02-24T09:52:00,EMP 04 - TOYOTA,S,IND,"Travando quando engata a ré.
+
+Obs.: Substituindo OS 63231",PEN,,wilde,,U
+P,,admmanutindmao@microservice.com.br,1,1,223,2018-02-24T10:00:00,EMP 05 - LINDE,N,IND,"Verificar vazamentos nos cilindros de inclinação e elevação dos garfos e tampa do motor.
+Obs.: Substituindo OS 63304",PEN,,wilde,,U
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@mivroservice.com.br,12,1,109,2018-01-02T08:44:00,OUTROS EXT,N,IND,"matrim ativo fixo n 8206 , não baixa completamente o garfo.",PEN,N,sigrid,999,N
+P,,admmanutindmao@microservice.com.br,1,1,224,2018-02-24T10:03:00,EMP 05 - LINDE,N,IND,"Realizar limpeza na maquina.
+Obs.: substituindo OS 63304.
+",PEN,,wilde,,U
+P,,gerdson.soares@microservice.com.br,12,1,132,2018-01-02T08:53:00,OUTROS EXT,N,COR,providenciar intsalação de farois ,CAN,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,12,1,133,2018-01-02T09:50:00,OUTROS EXT,N,COR,Verificar  Regulção de velocida do die,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.cpm.br,12,1,134,2018-01-02T09:50:00,OUTROS MATERIA,N,INS,realizar solda no Pé da cadeira af 3008,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,12,1,140,2018-01-02T09:50:00,EMP. SKAN 02,N,COR,realizar limpeza geral das maquinas,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,12,1,170,2018-01-02T09:57:00,OUTROS EXT,N,COR,verificar o nobreak de af 8323 nque não esta segurando carga,FEC,N,sigrid,3,N
+P,,admmanutindmao@microservice.com.br,1,1,227,2018-02-24T10:15:00,EMP. SKAN 01,S,IND,"Verificar freio de rodas e estacionamento.
+Obs.: Substituindo OS 63465",PEN,,wilde,,U
+P,,admmanutindmao@microservice.com.br,1,1,231,2018-02-24T11:02:00,EMP. SKAN 02,N,IND,"Realizar limpeza da maquina.
+Obs.: Substituição OS 63305",PEN,,wilde,,U
+P,,gerdson.soares@microservice.com.br,7,1,195,2018-01-23T13:28:00,OUTROS EXT,N,COR,"Portão com tela da parte traz do abastecimento, verificar o ferrolho danificado solda quebrada",PEN,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,7,1,190,2017-06-13T08:37:00,RESTAURANTE,N,COR,"Construção de uma escada de ferro para facilitar a descida e a subida no local, no terreno atrás da fabrica",PEN,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,7,1,193,2018-01-23T13:25:00,OUTROS MATERIA,N,COR,Lâmpada queimada - 02 unidades - Materiais - Local Spare parts,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,7,1,197,2018-01-10T13:31:00,OUTROS EXT,N,COR,Reservatório de matéria prima - pintura dos reservatórios de matéria prima ( cor amarelo gema),FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,7,1,199,2018-01-18T13:33:00,OUTROS RH,N,COR,Instalar uma torneira de 220 v na área externa próximo ao bebedouro em frente ao ambulatório,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,7,1,200,2018-01-22T13:34:00,OUTROS EXT,N,COR,Guia do refile ( extrusora welex) - pintura dos guias do refile,PEN,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,7,1,201,2018-01-23T13:36:00,OUTROS RH,N,COR,: Retirada da instalação elétrica da central de GLP (Aterramento do cilindro e ligação que fica no interior da tubulação que leva até o mangote de abastecimento de gás PIT STOP). Recursos Humanos,FEC,N,sigrid,1000,N
+P,,jozicleide.almeida@microservice.com.br,2,1,202,2018-02-01T16:07:00,AR COND. SS 24,S,COR,O Ar condicionado depois do almoço não está mais funcionando. Teria como verificar por favor?,FEC,N,lcosta,3,N
+P,,materiais-mao@microservice.com.br,1,1,244,2018-03-01T09:08:00,OUTROS PREDIAL,S,IND,Pintura do piso da área da bateria ,PEN,,patricia,,U
+P,,admmanutindmao@microservice.com.br,1,1,234,2018-02-24T11:10:00,EMP. SKAN 02,N,IND,"Verificar freio de estacionamento.
+Obs.: Substituição OS 63466",PEN,,wilde,,U
+P,,ti.manaus@microservice.com.br,2,1,242,2018-03-01T08:11:00,OUTROS TI,N,IND,teste,CAN,,lcosta,,N
+P,,jose.costa@microservice.com.br,12,1,249,2018-03-01T00:00:00,EMP 01 - TOYOTA,N,PRE,Id. 1 Ord. 1 Desc. Verificar o nível do óleo lubrificante | Id. 1 Ord. 2 Desc. Verificar a borracha e a tampa do radiador | Id. 1 Ord. 3 Desc. Verificar vazamento de óleo nas válvulas hidráulicas | Id. 1 Ord. 4 Desc. Verificar vazamentos e áreas danificadas nos cilindros hidráulicos | Id. 1 Ord. 5 Desc. Verificar o nível do óleo de freio | Id. 1 Ord. 6 Desc. Verificar o nível e vazamento...,PEN,,lcosta,,N
+P,,jose.costa@microservice.com.br,12,1,250,2018-03-01T00:00:00,EMP 02 - TOYOTA,N,PRE,Id. 1 Ord. 1 Desc. Verificar o nível do óleo lubrificante | Id. 1 Ord. 2 Desc. Verificar a borracha e a tampa do radiador | Id. 1 Ord. 3 Desc. Verificar vazamento de óleo nas válvulas hidráulicas | Id. 1 Ord. 4 Desc. Verificar vazamentos e áreas danificadas nos cilindros hidráulicos | Id. 1 Ord. 5 Desc. Verificar o nível do óleo de freio | Id. 1 Ord. 6 Desc. Verificar o nível e vazamento...,PEN,,lcosta,,N
+P,,jose.costa@microservice.com.br,12,1,251,2018-03-01T00:00:00,EMP 03 - TOYOTA,N,PRE,Id. 1 Ord. 1 Desc. Verificar o nível do óleo lubrificante | Id. 1 Ord. 2 Desc. Verificar a borracha e a tampa do radiador | Id. 1 Ord. 3 Desc. Verificar vazamento de óleo nas válvulas hidráulicas | Id. 1 Ord. 4 Desc. Verificar vazamentos e áreas danificadas nos cilindros hidráulicos | Id. 1 Ord. 5 Desc. Verificar o nível do óleo de freio | Id. 1 Ord. 6 Desc. Verificar o nível e vazamento...,PEN,,lcosta,,N
+P,,jose.costa@microservice.com.br,12,1,252,2018-03-01T00:00:00,FILTRO PRED. 00,N,PRE,Id. 1 Ord. 1 Desc. Realizar a limpeza dos filtros...,PEN,,lcosta,,N
+P,,gerdson.soares@microservice.com.br,7,1,189,2018-01-08T08:35:00,RESTAURANTE,N,COR,Identificar Disjuntor,PEN,N,sigrid,1,N
+P,,,2,1,2,2016-08-06T10:46:00,OUTROS TI,N,INS,"Lançamento cabo rede (utp) para nova sala do Arivelton (Sala de corte de tubete - filmes) e nova mesa do Geovane (sala do cq filmes).
+O cabo deve partir do rack da sala da Adm. Extrusão ok!",FEC,N,lcosta,4,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.co.br ; paulo.lima@microservice.com.br,7,1,4,2017-12-28T10:32:00,OUTROS MATERIA,N,COR,tampar os buracos da rua lateral e o trilho do portao rua 03,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br ;  paulo.lima@microservice.com.br,7,1,6,2016-12-27T10:50:00,OUTROS MATERIA,N,COR,diversos goteiras- Locais marcados ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br;sigrid.maquine@microservice.com.br,5,1,212,2018-02-22T15:47:00,LINHA DS,N,COR,Trocar contra-facas.,FEC,N,sigrid,3,U
+P,,admmanutindmao@microservice.com.br,11,1,213,2018-02-23T10:17:00,EMP 03 - TOYOTA,S,IND,"Nível do óleo do cárter baixo.
+Nível de óleo de transmissão (vazio)
+",CAN,,wilde,,U
+P,,admmateriais-mao@microservice.com.br,11,1,215,2018-02-23T16:31:00,AR COND. SS 54,N,IND,Condensando,PEN,,patricia,,U
+P,,admmanutindmao@microservice.com.br,1,1,216,2018-02-24T09:16:00,EMP 03 - TOYOTA,N,IND,"Nível do óleo do cárter baixo.
+Nível do nível de óleo de transmissão baixo.",PEN,,wilde,,U
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,21,2017-12-29T07:41:00,OUTROS MATERIA,N,COR,"construçao de uma escada de ferro para facilitar a descida e a subida no local, terreno atras da fabrica",FEC,N,sigrid,1000,N
+P,,admmanutindmao@microservice.com.br,1,1,219,2018-02-24T09:45:00,EMP 03 - TOYOTA,N,IND,Realizar limpeza na maquina.,PEN,,wilde,,N
+P,,admmanutindmao@microservice.com.br,1,1,235,2018-02-24T14:07:00,OUTROS MATERIA,S,IND,Matrim AF 9465 com problema para baixar.,PEN,,wilde,,N
+P,,admmanutindmao@microservice.com.br,1,1,236,2018-02-24T14:09:00,OUTROS MATERIA,S,IND,Matrim AF 3991 com problema para baixar.,PEN,,wilde,,U
+P,,materiais-mao@microservice.com.br,1,1,245,2018-03-01T09:09:00,OUTROS PREDIAL,N,IND,"Pintura de 02 pallets de contenção 
+para alocar na área da bateria",PEN,,patricia,,U
+P,,jose.costa@microservice.com.br,12,1,248,2018-03-01T14:36:16,FILTRO PRED. 00,N,PRE,Id. 1 Ord. 1 Desc. Realizar a limpeza dos filtros,PEN,,SISTEMA,,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,35,2017-12-29T07:43:00,OUTROS MATERIA,N,COR,pintura e alinhamento das prateleiras do estoque,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,58,2017-12-29T08:34:00,OUTROS MATERIA,N,COR,fechadura danificada (subistituir),FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com,7,1,62,2017-12-29T08:36:00,OUTROS MATERIA,N,COR,lamapada queimadas ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com,7,1,63,2017-12-29T08:36:00,OUTROS MATERIA,N,COR,lamapada queimadas ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,77,2017-12-29T08:39:00,OUTROS MATERIA,N,COR,piso danificado - abastecimento,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,97,2017-12-29T08:42:00,OUTROS MATERIA,N,COR,telhado da area de abastecimento injeção plastica - reparo de vavzamento no telhado,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,12,1,121,2018-01-02T08:52:00,OUTROS MANUT,N,COR,die (750) com a fiação exposta e sem conexão.,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,12,1,137,2018-01-02T09:41:00,OUTROS EXT,N,COR,verificar vavzamneto no cilindro da torre e realizar limpeza na maquina,CAN,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,9,2016-08-06T10:46:00,OUTROS MATERIA,N,COR,piso danificado,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br; sigrid.maquine@microservice.com.br,7,1,3,2017-12-28T10:22:00,BOBINADOR DS,N,COR,nao funciona a maquina ds ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,7,1,43,2017-12-29T07:44:00,OUTROS MATERIA,N,COR,colocar protetor contra insetos na porta do setor de recebimentos ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,45,2017-12-29T07:46:00,OUTROS MATERIA,N,COR,confeccionar duas unidades de clavicularios medindo 20 cmde largura por 30 cm de altura,ATE,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,12,1,117,2018-01-02T08:47:00,OUTROS EXT,N,COR,ineal não dosa 1%.Extrusor  C,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,12,1,138,2018-01-02T09:50:00,EMP 03 - TOYOTA,N,COR,verificar lubrificação  ( engrenagem do motor fazendo muito barulho),FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,12,1,143,2018-01-02T09:50:00,EMP 05 - LINDE,N,COR,verificar trava de freio de estaconamento,FEC,N,sigrid,3,N
+P,,,11,1,188,2018-01-10T08:19:00,ALIM_MP03,N,IND,teste,CAN,N,lcosta,999,N
+P,,gerdson.soares@microservice.com.br,12,1,165,2018-01-02T09:50:00,OUTROS EXT,N,COR,limpeza geral nos sistemas de exautão - ar quente e com filtro,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,12,1,169,2018-01-02T09:55:00,OUTROS EXT,N,COR,arrumar fiação do tanque inox,FEC,N,sigrid,3,N
+P,,materiais-mao@microservice.com.br,1,1,240,2018-02-28T10:23:00,OUTROS PREDIAL,N,IND,"Instalar suporte - Salão Materiais Rua 0, próximo ao dispenser de alcool",PEN,,patricia,,U
+P,,admmanutindmao@microservice.com.br,1,1,246,2018-03-01T09:30:00,OUTROS MATERIA,N,IND,"Fiorino - Lanterna traseira , luz de freio e de ré queimadas, lado esquerdo.",PEN,,wilde,,U
+P,,gerdson.soares@microservice.com.br,7,1,196,2018-01-12T13:29:00,OUTROS EXT,N,COR,Paletes de madeira vai e vem (matéria prima) - fazer a pintura do cepo central ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,5,1,203,2018-02-08T11:35:00,OUTROS EXT,N,COR,Pintura na estação de tratamento (cor: amarelo) - estação de tratamento de pó,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,1,1,204,2018-02-08T11:37:00,OUTROS MATERIA,N,COR,"drive - in rua 01 
+trocar peças danificadas vão 09B e 10B",FEC,N,sigrid,1000,N
+P,,admmateriais-mao@microservice.com.br,11,1,238,2018-02-28T07:14:00,OUTROS PREDIAL,S,IND,Vazamento na descarga do banheiro feminino - FILMES,PEN,N,patricia,999,U
+P,,materiais-mao@microservice.com.br,1,1,239,2018-02-28T10:15:00,OUTROS PREDIAL,N,IND,Colocar borracha no pé da escada AF 9610,PEN,,patricia,,U
+P,,materiais-mao@microservice.com.br,1,1,241,2018-02-28T16:31:00,OUTROS MATERIA,S,IND,"Lavagem das empilhadeiras utilizando os pallets de contenção
+PRIORIDADE",PEN,,patricia,,U
+P,,materiais-mao@microservice.com.br,1,1,243,2018-03-01T09:05:00,OUTROS PREDIAL,N,IND,"Pintura dos suportes das baterias
+localização: área bateria ",PEN,,patricia,,U
+P,,admmanutindmao@microservice.com.br,1,1,222,2018-02-24T09:57:00,EMP 05 - LINDE,N,IND,Nível do óleo hidráulico baixo.,PEN,,wilde,,U
+P,,gerdson.soares@microservice.com.br,5,1,206,2018-01-09T08:55:00,LINHA WELEX,S,COR,Drive motor principal com defeito,FEC,N,sigrid,4,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br ; paulo.lima@microservice.com.br,7,1,7,2017-12-28T10:53:00,RESTAURANTE,N,COR,parede do restaurante sem azulejos ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,7,1,191,2017-12-20T11:29:00,OUTROS SEGU,N,COR,Realizar serviço de reparo na cerca na área dos fundos da microservice,EAT,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,24,2017-12-29T07:43:00,OUTROS MATERIA,N,COR,pintura e alinhamento das prateleiras do estoque,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,7,1,194,2018-01-23T13:26:00,OUTROS MATERIA,N,COR,Lâmpada - queimada - 03 unidades - materiais - Local Sala químicos - Óleo,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,5,1,205,2018-02-19T14:56:00,OUTROS EXT,N,COR,Retirar as Rodas dos Containeres para descarte,FEC,N,gerdson,3,N
+P,,admmanutindmao@microservice.com.br,1,1,220,2018-02-24T09:48:00,EMP 03 - TOYOTA,N,IND,Verificar motor de partida (Defeito).,PEN,,wilde,,U
+P,,admmanutindmao@microservice.com.br,1,1,228,2018-02-24T10:32:00,EMP. SKAN 01,N,IND,"Retrátil não funciona.
+Obs.: Substituição OS 63509.",PEN,,wilde,,U
+P,,admmanutindmao@microservice.com.br,1,1,230,2018-02-24T11:00:00,EMP. SKAN 02,N,IND,"Vazamentos nas mangueiras do retrátil.
+Obs.: Substituição OS 63305",PEN,,wilde,,U
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,52,2017-12-29T07:48:00,OUTROS MATERIA,N,COR,porta sem trava por dentro / colocar trava ( banheiro masculino seg. Patrimonial.,FEC,N,sigrid,1000,N
+P,,jose.costa@microservice.com.br,12,1,253,2018-03-02T07:00:00,LINHA DS,N,PRE,Id. 18 Ord. 4 Desc. BOB. DS - Rolamentos - Checar folga nos parafusos e anilhas de fixação | Id. 18 Ord. 43 Desc. EXT DS A / B / C / D - Comando: Substituir os feltros do painel de comando | Id. 18 Ord. 54 Desc. EXT DS A / B / C / D - Redutor: Inspecionar visualmente a existência de vazamentos de óleo | Id. 18 Ord. 57 Desc. EXT DS A / B / C / D - Redutor: Verificar o nível de óleo | Id. 18 Ord. 60 Desc. EXT DS A / B / C / D - Refrigeração: Verificar e eliminar vazamentos no circuito de refrigeração | Id. 18 Ord. 61 Desc. EXT DS A / B / C / D - Refrigeração: Verificar o nivel de água do tanque do reservatorio,PEN,,SISTEMA,,N
+P,,jose.costa@microservice.com.br,12,1,254,2018-03-02T07:00:00,EMP. SKAN 01,N,PRE,"Id. 1 Ord. 1 Desc. Verificar o nível da água da bateria | Id. 1 Ord. 2 Desc. Verificar horímetro, chave liga/desliga, IDB, buzina, reversão e saca tomada",PEN,,SISTEMA,,N
+P,,jose.costa@microservice.com.br,12,1,255,2018-03-02T07:00:00,EMP. SKAN 02,N,PRE,"Id. 1 Ord. 1 Desc. Verificar o nível da água da bateria | Id. 1 Ord. 2 Desc. Verificar horímetro, chave liga/desliga, IDB, buzina, reversão e saca tomada",PEN,,SISTEMA,,N
+P,,jose.costa@microservice.com.br,12,1,256,2018-03-02T07:00:00,EMP 05 - LINDE,N,PRE,Id. 1 Ord. 1 Desc. Verificar o nível do óleo lubrificante | Id. 1 Ord. 2 Desc. Verificar a borracha e a tampa do radiador | Id. 1 Ord. 3 Desc. Verificar vazamento de óleo nas válvulas hidráulicas | Id. 1 Ord. 4 Desc. Verificar vazamentos e áreas danificadas nos cilindros hidráulicos | Id. 1 Ord. 5 Desc. Verificar o nível do óleo de freio | Id. 1 Ord. 6 Desc. Verificar o nível e vazamento de água do radiador,PEN,,SISTEMA,,N
+P,,jose.costa@microservice.com.br,12,1,257,2018-03-02T07:00:00,EMP 06 - LINDE,N,PRE,"Id. 1 Ord. 1 Desc. Verificar o nível da água da bateria | Id. 1 Ord. 2 Desc. Verificar horímetro, chave liga/desliga, IDB, buzina, reversão e saca tomada",PEN,,SISTEMA,,N
+P,,jose.costa@microservice.com.br,12,1,258,2018-03-02T07:00:00,EMP 04 - TOYOTA,N,PRE,Id. 1 Ord. 1 Desc. Verificar o nível do óleo lubrificante | Id. 1 Ord. 2 Desc. Verificar a borracha e a tampa do radiador | Id. 1 Ord. 3 Desc. Verificar vazamento de óleo nas válvulas hidráulicas | Id. 1 Ord. 4 Desc. Verificar vazamentos e áreas danificadas nos cilindros hidráulicos | Id. 1 Ord. 5 Desc. Verificar o nível do óleo de freio | Id. 1 Ord. 6 Desc. Verificar o nível e vazamento de água do radiador,PEN,,SISTEMA,,N
+P,,jose.costa@microservice.com.br,12,1,259,2018-03-02T07:00:00,FILTRO PRED. 00,N,PRE,Id. 1 Ord. 1 Desc. Realizar a limpeza dos filtros,PEN,,SISTEMA,,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com,7,1,91,2017-12-29T08:40:00,OUTROS MATERIA,N,COR,pintura da proteçao do poço ,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br ; sigrid.maquine@microservice.com.br,7,1,101,2017-12-29T08:44:00,OUTROS MATERIA,N,COR,colocação de tampa de erosca no medidor de nivel e instalação de torneira para coleta de,FEC,N,sigrid,1000,N
+P,,ti.manaus@microservice.com.br,11,1,1,2016-08-06T10:46:00,OUTROS TI,N,INS,Lançar os cabos de rede (UTP) para a nova sala da Manutenção Geral. Os cabos devem sair do rack da Adm. Extrusão até a nova sala da Manutenção Geral ok!,FEC,N,lcosta,4,U
+P,,gerdson.soares@microservice.com.br,12,1,136,2018-01-02T09:38:00,OUTROS EXT,N,COR,verificada vazamento e realizar limpeza da maquina ,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br ; sigird.maquine@microservice.com.br,12,1,186,2018-01-02T10:38:00,AR COND. SS 21,N,COR,Preventiva.,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,5,1,210,2018-02-22T15:34:00,LINHA DS,N,PRE,preventiva conforme PMP,FEC,N,sigrid,2,N
+P,,,2,1,187,2018-01-12T09:38:00,ALIM_MP03,N,IND,manafatura,CAN,N,sigrid,999,N
+P,,jose.costa@microservice.com.br,12,1,247,2018-03-01T00:00:00,FILTRO PRED. 00,N,PRE,Id. 1 Ord. 1 Desc. Realizar a limpeza dos filtros,PEN,,lcosta,,N
+P,,gerdson.soares@microservice.com.br,7,1,192,2018-01-23T13:23:00,OUTROS MATERIA,N,COR,Lâmpada - piscando 02 unidade - Local do salão materiais,FEC,N,sigrid,1000,N
+P,,gerdson.soares@microservice.com.br,5,1,207,2018-02-21T10:28:00,BOBINADOR W4,N,COR,ordem de servico teste FSSC22000,FEC,N,gerdson,1,N
+P,,gerdson.soares@microservice.com.br,5,1,209,2018-02-22T15:30:00,LINHA WELEX,N,COR,VARIAÇÃO DE PRESSÃO NA CO1 E CO2 (FAZER CALIBRAGEM),FEC,N,sigrid,1,N
+P,,gerdson.soares@microservice.com.br,5,1,211,2018-02-22T15:40:00,VIRADOR01,N,COR,Virador apresentando falha no comando.,FEC,N,sigrid,3,N
+P,,gerdson.soares@microservice.com.br,5,1,208,2018-02-21T14:50:00,VIRADOR02,N,COR,Favor verificar o vazamento de óleo no sistema hidráulico,FEC,N,sigrid,3,N

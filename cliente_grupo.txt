@@ -1,0 +1,13 @@
+FL_ATENDE_FSSC,ID_CLIENTE,ID_GRUPO,NM_GRUPO,DS_EMAIL,FL_ENVIA_EMAIL,ST_GRUPO,FL_ATENDE_OS
+N,1,12,Manutenção Industrial,manutindgeral@microservice.com.br,S,A,S
+S,1,5,Extrusão Plástica,,N,A,N
+N,1,7,Manutenção Predial,predialmns@microservice.com.br,S,A,S
+N,1,4,Recursos Humanos,rh.manaus@microservice.com.br,S,A,N
+N,1,6,Filmes,,N,A,N
+N,1,11,Administração Industrial,,S,A,N
+S,1,1,Estoque Materiais,,N,A,N
+N,1,3,Controle de Qualidade,,N,A,N
+N,1,8,Compras,,S,A,N
+N,1,9,Fiscal,,S,A,N
+N,1,10,Injeção Pástica,,S,A,N
+N,1,2,Tecnologia da Informação,ti.servicedesk@microservice.com.br,S,A,N

@@ -1,0 +1,13 @@
+ID_CLIENTE,CD_TIPO,DS_TIPO,ST_TIPO
+1,PRE,Preventiva,A
+1,COR,Corretiva,A
+1,COI,Corretiva por interferência,A
+1,ACO,Acompanhamento,A
+1,SUP,Setup,A
+1,BAN,Bancada,A
+1,INS,Instalação,A
+1,FER,Ferramentaria,A
+1,PRD,Preditiva,A
+1,P&M,Projetos e Melhorias,A
+21,TES,TESTE,A
+1,IND,Indeterminado,A

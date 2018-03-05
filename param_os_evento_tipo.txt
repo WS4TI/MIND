@@ -1,0 +1,9 @@
+TP_EVENTO,DS_TIPO,ST_TIPO,ST_OS,FL_ATENDIMENTO
+AAT,Atendimento,A,EAT,S
+AOS,Abertura OS,A,PEN,S
+ENI,Enviar Informação,A,,S
+FIA,Finalizar OS,A,ATE,N
+FOS,Fechar OS,A,FEC,N
+ROS,Reabrir OS,A,REA,N
+SOI,Solicitar Informação,A,,S
+COS,Cancelar OS,A,CAN,N

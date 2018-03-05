@@ -1,0 +1,35 @@
+AQ,Antartica
+AR,Argentina
+AS,Samoa Americana
+AT,Austria
+AU,Australia
+AW,Aruba
+AZ,Azerbaijão
+BA,Bosnia Herzegovinia
+BB,Barbados
+BD,Bangladesh
+BE,Bélgica
+BF,Burkina Fasso
+BG,Bulgária
+BH,Bahrain
+BI,Burundi
+BJ,Benin
+BM,Bermudas
+BN,Brunei
+BO,Bolivia
+BR,Brasil
+BS,Bahamas
+BT,Butão
+BV,Bouvet Island
+BW,Botswana
+BY,Belarus (Bielorússia)
+BZ,Belize
+AD,Andorra
+AE,Emirados Arabes
+AF,Afeganistão
+AL,Albânia
+AM,Armenia
+AN,Hantilhas Holandesas
+AO,Angola
+RU,Ruanda
+EX,EXTERIOR

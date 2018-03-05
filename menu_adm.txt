@@ -1,0 +1,19 @@
+MNU_TECNICO,MNU_ID,MNU_PAI_ID,MNU_NOME,MNU_PAGINA,MNU_TOOLTIP,MNU_ORDEM,MNU_TIPO
+N,2,1,Usuário,3,,3,J
+N,3,1,Grupo Usuário,6,,2,J
+N,4,1,Turno de Trabalho,8,,1,J
+S,5,,Ordem de Serviço,,,,J
+N,22,10,Programação,39,,6,J
+S,7,5,Ordem de Serviço,24,Ordem de Serviço,,J
+N,8,5,Alertas,,,,J
+N,9,1,Calendário,2,,,J
+S,10,,Máquina/Equipamento,,,,J
+N,15,5,Tipo de Manutenção,18,,,J
+S,12,10,Fabricante,11,,1,J
+N,13,10,Grupo Máq/Equip.,13,,4,J
+S,14,10,Máquina/Equip.,15,,2,J
+N,16,10,Check List,4,,5,J
+N,17,10,TRO,21,Tempo Real de Operação,7,J
+N,20,5,Classificação OS,29,Classificação de Problema apontados na OS,,J
+S,21,1,Histórico Notificações,26,,,J
+S,1,,Parametrizações,,,,J

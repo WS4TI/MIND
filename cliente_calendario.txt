@@ -1,0 +1,15 @@
+ID_CLIENTE,DT_CALENDARIO,ID_MAQUINA_GRUPO,ID_TURNO,DS_OBS
+1,2017-04-21T00:00:00,,,Tiradentes
+1,2017-09-05T00:00:00,,,Elevação do Amazonas à categoria de Província (est.)
+1,2017-12-08T00:00:00,,,Dia de Nossa Senhora da Conceição (est.)
+1,2017-04-14T00:00:00,,,Sexta-feira Santa
+1,2017-06-15T00:00:00,,,Corpus Christi
+1,2017-01-01T00:00:00,,,Confraternização Universal
+1,2017-09-07T00:00:00,,,Independência do Brasil
+1,2017-11-20T00:00:00,,,Consciência Negra (est.)
+1,2017-05-01T00:00:00,3,,Dia do Trabalho
+1,2017-02-28T00:00:00,,,Carnaval
+1,2017-10-12T00:00:00,,,Padroeira do Brasil
+1,2017-11-15T00:00:00,,,Proclamação da República
+1,2017-12-25T00:00:00,,,Natal
+1,2017-11-02T00:00:00,,,Finados

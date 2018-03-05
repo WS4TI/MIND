@@ -1,0 +1,20 @@
+ID_CLIENTE,CD_USUARIO,NM_USUARIO,DS_SENHA,DS_EMAIL,TP_USUARIO,ID_TURNO,ID_GRUPO,DT_CADASTRO,ST_USUARIO
+1,gilmar,Gilmar Ferreira Vaz,@micro123,gilmar.vaz@microservice.com.br,T,3,12,2017-05-09T09:02:51,A
+1,leoney,Leoney da Silva Lemos,@micro123,leoney.lemos@microservice.com.br,T,1,12,2017-05-09T09:02:51,A
+1,josimare,Josimare de Oliveira Pinto,@micro123,josimare.pinto@microservice.com.br,T,1,12,2017-05-09T09:02:51,A
+1,caiod,Caio Cesar Vieira Dultra,@micro123,caio.dultra@microservice.com.br,T,1,12,2017-05-09T09:02:51,A
+1,marcels,Marcel Silva Santos,@micro123,marcel.santos@microservice.com.br,T,1,12,2017-05-09T09:02:51,A
+1,marcior,Márcio Roberto Vilaça Colares,,marcio.colares@microservice.com.br,T,1,12,2017-05-09T09:02:51,A
+1,maxp,Max de Lima Pereira,@micro123,max.pereira@microservice.com.br,T,1,12,2017-05-09T09:02:51,A
+1,raimundoj,Raimundo Joelson Borges Esquerdo,@micro123,joelson.borges@microservice.com.br,T,1,12,2017-05-09T09:02:51,A
+1,josea,José Antonio Alves Batista,@micro123,jose.batista@microservice.com.br,T,2,12,2017-05-08T17:33:37,A
+1,jsilva,Jefferson Da Silva Areosa,,jefferson.areosa@microservice.com.br,T,1,12,2017-05-08T17:33:37,A
+1,lucia,Lucia De Araujo Nascimento,@micro123,lucia.nascimento@microservice.com.br,T,1,12,2017-05-08T17:33:37,I
+1,luiscarlos,Luiz Carlos Alves Da Cunha,@micro123,luiz.cunha@microservice.com.br,T,1,12,2017-05-08T17:33:37,A
+1,marciod,Marcio Dos Santos Pinheiro,,marcio.pinheiro@microservice.com.br,U,1,12,2017-05-08T17:33:37,I
+1,paulop,Paulo Pereira Dos Santos,@micro123,paulo.santos@microservice.com.br,T,2,12,2017-05-08T17:33:37,A
+1,gerdson,Gerdson Tanaka Soares,@micro123,gerdson.soares@microservice.com.br,A,4,12,2017-01-25T00:00:00,A
+1,lcosta,José Luís Alves Da Costa Filho,,jose.costa@microservice.com.br,A,4,2,2017-01-24T00:00:00,A
+21,lucio,Lucio Lourenço Caliccio,EL2O39,lucio.caliccio@microservice.com.br,A,1,,2017-01-24T11:59:00,A
+1,sigrid,Sigrid Maquiné,@micro123,sigrid.maquine@microservice.com.br,A,4,11,2017-05-08T15:49:57,A
+1,Pauloe,Paulo Eduardo ,,paulo.lima@microservice.com.br,A,1,7,2018-01-10T10:50:26,A
